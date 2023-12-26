@@ -1,0 +1,22 @@
+EcmaScript
+ It is the standard on which javascript is based.
+
+
+How to execute javascript ?
+  within one browsers
+using node.js
+or using script tag within your html .
+javascript is backward compatible that means purano code ahile ko browser ma ni chalxa 
+but not forward compatible that is naya changes cannot be implemented in old browsers'
+
+ 
+  keyword is forward and backward compatible
+
+
+data structure and algorithm
+oops
+hackerone leet code
+chatgpt
+
+
+
